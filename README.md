@@ -1,2 +1,2 @@
-# redesigned-succotash
-Skincare routine scheduler with notifications.
+# Skincare-Notifier
+Schedule skincare routines, receive timely reminders, and stay consistent.
